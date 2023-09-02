@@ -30,7 +30,7 @@ The project achieves a test set accuracy of 81.25%.
 If you have any questions or comments, please contact me at
 # Email : qasimkhann561@gmail.com
 # Linkedin : https://www.linkedin.com/in/muhammad-qasim-2576071a6
-# Kaggle : kaggle.com/qasim561/
+# Kaggle : https://www.kaggle.com/qasim561/
 
 
 
